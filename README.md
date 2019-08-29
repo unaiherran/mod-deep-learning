@@ -15,7 +15,6 @@ Además, se incluye en el repositorio distintos archivos que se generan durante 
 | `demo_image.jpg` | Ejemplo de imagen de entrada |
 | `demo_image.desc.txt` | Ejemplo de descripción de la imagen |
 | `descriptions.txt` | Archivo con todas las descripciones extraídas de todas las imagenes|
-
 | `baseline1.csv` | Resultados del modelo base |
 | `size_sm_fixed_vec_model.csv` | Resultados de disminuir el tamaño de la red de entrada al LSTM decodificador |
 | `size_lg_fixed_vec_model.csv` | Resultados de aumentar ek tamaño de la red de entrada al LSTM del decodificador |
@@ -27,7 +26,6 @@ Además, se incluye en el repositorio distintos archivos que se generan durante 
 | `fe_avg_pool.csv` | Resultados de cambiar el metodo de pooling del extractor de características |
 | `fe_flat.csv` | Resultados de eliminar el metodo de pooling del extractor de características |
 | `final_result.csv` | Resultados finales. Un sólo entrenamiento con más épocas y más datos |
-
 | `train-test-val-set.txt`| Lista con las mil imagenes que usamos para entrenar el modelo  |
 | `models-sumamry.csv` | CSV con las medias de todos los experimentos realizados agrupados |
 | `models-results.csv` | CSV con todos los experimentos realizados|
