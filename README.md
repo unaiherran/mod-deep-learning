@@ -29,4 +29,4 @@ Además, se incluye en el repositorio distintos archivos que se generan durante 
 | `train-test-val-set.txt`| Lista con las mil imagenes que usamos para entrenar el modelo  |
 | `models-sumamry.csv` | CSV con las medias de todos los experimentos realizados agrupados |
 | `models-results.csv` | CSV con todos los experimentos realizados|
-| `features.pkl` | Archivo con todas las características extraídas de las imagenes. ( *Como el archivo es de 2.97G, no se incluye en el repositorio. **Para obtenerlo hay que ejecutar hasta la sección Modelo - Extracción de características** *) |
+| `features.pkl` | Archivo con todas las características extraídas de las imagenes. *(Como el archivo es de 2.97G, no se incluye en el repositorio. **Para obtenerlo hay que ejecutar hasta la sección Modelo - Extracción de características**)* |
